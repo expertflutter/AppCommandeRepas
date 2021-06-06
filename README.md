@@ -1,24 +1,17 @@
-# Stateful Click Counter
-
-A new Flutter project created with [FlutLab](https://flutlab.io)
-
-### Getting Started: FlutLab - Flutter Online IDE
-
-- Watch Mini crash course "How to use Flutter Widgets" on [FlutLab Youtube Channel](https://www.youtube.com/channel/UC7ZOPQm4JFlvBc9WeynLX_g)
-- Discover a marketplace of ready-to-use Flutter projects [FlutLab Widget Bay](https://widgetbay.flutlab.io/)
-- Join the discussion and conversation on [FlutLab Facebook Group](https://www.facebook.com/groups/flutlab/)
-
-If you have some questions regarding FlutLab, you can ask on [FlutLab FAQ](https://faq.flutlab.io/)
-
-### Getting Started: Flutter
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bonjour cher réseau.De retour , Les animations de Flutter ça vous parle ???
+,Voici une petite application pour commander un repas que j’ai fait avec Flutter. 
+Sur ce app vous pouvez sélectionner un repas, choisir le format ( small,médium ou Large) et aussi l’ajouter aux favoris et cliquez sur le repas pour l’acheter !
+1 étape : j’ai fais le design avec FlutterFlow .J’espère que vous vous en rappelez et téléchargez le code 
+2 étape : j’ai continué le codage pour animer les widget. 
+Les animations qui sont dans l’app :
+Le Scrolling :est  géré par le widget pageview 
+L’augmentation de la circonférence du repas : avec le widget AnimatedContainer.
+La translation de l’assiette ou saut : avec le widget Hero.
+Vous en pensez quoi?
+Avez vous déjà utilisé les animations Flutter ?
+Comment je peux améliorer cette petite app ?
+Si vous êtes développeur Flutter avez déjà utilisé les animations ??
+Vous avez de problèmes avec le Flutter ??
+Je pense aussi à une autre petite application avec des animations car je suis débutant sur les animations.Je pense que c’est mon seul vide pour l’instant !!
+Mon groupe Telegram est toujours disponible,Demander si besoin.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_2ZMKFOYrvo/0.jpg)](https://www.youtube.com/watch?v=_2ZMKFOYrvo)
